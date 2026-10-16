@@ -1,0 +1,11 @@
+{
+  "name": "file-deduplication-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first file deduplication dashboard using SHA-256 content hashing",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
